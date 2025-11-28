@@ -15,7 +15,7 @@
 ### 3. Listas
 **Tarefa:** Criar um programa que receba nomes de alunos e armazene em uma lista, permitindo exibir todos os nomes ao final.
 
-### 4. Dicionários
+### 4. Dicionarios
 **Tarefa:** Desenvolver um sistema simples de cadastro de produtos com nome e preço, armazenando em dicionário.
 
 ## Critérios de Avaliação
